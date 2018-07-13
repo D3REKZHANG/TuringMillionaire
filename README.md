@@ -5,7 +5,9 @@ Final Mark: 94%
 
 <h2>Implementation Details</h2>
 
-This game was written entirely in Turing! Turing is a beginner programming language that is used in Ontario, Canada, to teach high school students how to program. It is only taught in the first intro course to computer programmming and is completely useless in the current day. The code is surprisingly readable, with adequate commenting. The questions are stored in a 3d array - 3 questions for each of the 15 difficulties, and 5 indices for each question {q,a1,a2,a3,a4}. 
+This game was written entirely in Turing! Turing is a beginner programming language that is used in Ontario, Canada, to teach high school students how to program. It is only taught in the first intro course to computer programmming and is completely useless in the current day. The code is surprisingly readable, with adequate commenting. The questions are stored in a 3d array - 3 questions for each of the 15 difficulties, and 5 indices for each question {q,a1,a2,a3,a4}.
+
+To run the game, open main.t with the Turing editor. Turing can be downloaded here: http://compsci.ca/holtsoft/
 
 <h2>Art and Music</h2>
 
